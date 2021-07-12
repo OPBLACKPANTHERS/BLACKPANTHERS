@@ -6,7 +6,7 @@
 
 - 📫 How to reach me 
 ## Telegram 🏪
-- [![AMAN](https://t.me/IDANISHBABA)
+- #[AMAN](https://t.me/IDANISHBABA)
 <!---
 OPBLACKPANTHERS/OPBLACKPANTHERS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
